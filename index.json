@@ -13,13 +13,6 @@
       "skinUrl": "https://raw.githubusercontent.com/yorii-accounts/yorii-skins/0a5085e3d237f0996e91c383fce732224e2d326b/skins/addtest_probe.png",
       "version": "0a5085e3d237f0996e91c383fce732224e2d326b",
       "claimTokenHash": "edbee5adc9369834be6dcb7add17c8319d55c1cf74dc78306712cfe1f99f94cf"
-    },
-    "boby": {
-      "kind": "private",
-      "owner": "yoriichi111012",
-      "uuid": "ed51a419-013b-478a-be58-7285fb647431",
-      "skinUrl": "https://raw.githubusercontent.com/yoriichi111012/yorii-profiles/1a2f823ed1cece1d8008a9c9759161b038fcd72f/skins/boby.png",
-      "version": "1a2f823ed1cece1d8008a9c9759161b038fcd72f"
     }
   }
 }
