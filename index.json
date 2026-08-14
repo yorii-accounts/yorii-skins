@@ -6,6 +6,13 @@
       "skinUrl": "https://raw.githubusercontent.com/yoriichi111012/yorii-profiles/7ca77535c6cc2049d18833da4f7da8a1979d2212/skins/thesunbreather.png",
       "version": "7ca77535c6cc2049d18833da4f7da8a1979d2212",
       "kind": "private"
+    },
+    "flanticc": {
+      "kind": "private",
+      "owner": "yoriichi111012",
+      "uuid": "15836272-6ed4-4523-8e11-4e3b8bb3b09c",
+      "skinUrl": "https://raw.githubusercontent.com/yoriichi111012/yorii-profiles/d18a338dc8dc056c7d3fa66a8ea44ab6009d86c1/skins/flanticc.png",
+      "version": "d18a338dc8dc056c7d3fa66a8ea44ab6009d86c1"
     }
   }
 }
