@@ -6,13 +6,6 @@
       "skinUrl": "https://raw.githubusercontent.com/yoriichi111012/yorii-profiles/7ca77535c6cc2049d18833da4f7da8a1979d2212/skins/thesunbreather.png",
       "version": "7ca77535c6cc2049d18833da4f7da8a1979d2212",
       "kind": "private"
-    },
-    "bobyda": {
-      "kind": "public",
-      "uuid": "6aef9317-e308-41c3-8341-5b8308bf2ca2",
-      "skinUrl": "https://raw.githubusercontent.com/yorii-accounts/yorii-skins/04640b3b89b799fd34a20b973aace549761dd7b6/skins/bobyda.png",
-      "version": "04640b3b89b799fd34a20b973aace549761dd7b6",
-      "claimTokenHash": "59cce9c030b94bd6f442d822608d77444f5b938c90a6fc4d4148d3fefd72ef0d"
     }
   }
 }
