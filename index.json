@@ -13,13 +13,6 @@
       "skinUrl": "https://raw.githubusercontent.com/yorii-accounts/yorii-skins/059b0f6615db0d45d3ce5e53cd5e1531df62fe75/skins/sunga.png",
       "version": "059b0f6615db0d45d3ce5e53cd5e1531df62fe75",
       "claimTokenHash": "c5a3e3ce0c1164362d47bb4d036fdd05e5f936f061e5288a0b1b4a6a071eb794"
-    },
-    "vdds": {
-      "kind": "public",
-      "uuid": "7f4f39ca-2ded-44a9-88fd-eda4449eeeef",
-      "skinUrl": "https://raw.githubusercontent.com/yorii-accounts/yorii-skins/755eb9b6df207b4322ea48eae2a449edcd269233/skins/vdds.png",
-      "version": "755eb9b6df207b4322ea48eae2a449edcd269233",
-      "claimTokenHash": "951c61f134fa5269314a16f0b25ac208a839c4fa204d491c7d6e2e1466f574cb"
     }
   }
 }
