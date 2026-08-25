@@ -20,6 +20,13 @@
       "skinUrl": "https://raw.githubusercontent.com/yorii-accounts/yorii-skins/47e6fb6703a883dbb76ef220530d80db4db2eac9/skins/Bobby_bhaiya13.png",
       "version": "47e6fb6703a883dbb76ef220530d80db4db2eac9",
       "claimTokenHash": "031ff2dd61d1c96007b060ccda87734c8ef2afbd361a3126b7e974db43b66e5c"
+    },
+    "yoriichi11": {
+      "kind": "private",
+      "owner": "yoriichi111012",
+      "uuid": "4068bfe6-2bca-4882-ab94-c86f41d3ee9e",
+      "skinUrl": "https://raw.githubusercontent.com/yoriichi111012/yorii-profiles/e9a8aea197d69b63c96f59ce99bb4009d659ca58/skins/yoriichi11.png",
+      "version": "e9a8aea197d69b63c96f59ce99bb4009d659ca58"
     }
   }
 }
