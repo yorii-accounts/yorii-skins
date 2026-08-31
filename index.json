@@ -27,6 +27,13 @@
       "uuid": "4068bfe6-2bca-4882-ab94-c86f41d3ee9e",
       "skinUrl": "https://raw.githubusercontent.com/yoriichi111012/yorii-profiles/e9a8aea197d69b63c96f59ce99bb4009d659ca58/skins/yoriichi11.png",
       "version": "e9a8aea197d69b63c96f59ce99bb4009d659ca58"
+    },
+    "testcape123": {
+      "kind": "public",
+      "uuid": "07690bb1-4651-411a-abad-68593473cafa",
+      "capeUrl": "https://raw.githubusercontent.com/yorii-accounts/yorii-skins/f7d0e2f2bbace5ced1e8553b4aa81601a14e395b/capes/testcape123.png",
+      "capeVersion": "f7d0e2f2bbace5ced1e8553b4aa81601a14e395b",
+      "claimTokenHash": "30f48e408fa837652301bc8d5b1b97b9a9c12d7fd43a87a7f475751b42177d96"
     }
   }
 }
