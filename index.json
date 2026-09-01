@@ -27,6 +27,13 @@
       "uuid": "4068bfe6-2bca-4882-ab94-c86f41d3ee9e",
       "skinUrl": "https://raw.githubusercontent.com/yoriichi111012/yorii-profiles/c04f30dba662a54bb853be50f697c1f26c999157/skins/yoriichi11.png",
       "version": "c04f30dba662a54bb853be50f697c1f26c999157"
+    },
+    "test": {
+      "kind": "private",
+      "owner": "WinUIDev",
+      "uuid": "0e2c8e28-1680-4b2a-b470-7b4e55c07f9b",
+      "skinUrl": "https://raw.githubusercontent.com/WinUIDev/yorii-profiles/5ddfa1bebb9157fa4d841b4b7774dc4787249d9a/skins/test.png",
+      "version": "5ddfa1bebb9157fa4d841b4b7774dc4787249d9a"
     }
   }
 }
