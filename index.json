@@ -36,6 +36,14 @@
       "uuid": "4fe586e3-6a14-4246-a091-f9c3b6f3927a",
       "skinUrl": "https://raw.githubusercontent.com/WinUIDev/yorii-profiles/fe27a24fcbe20117778b7bbf6bad3e15d76d71d6/skins/winui.png",
       "version": "fe27a24fcbe20117778b7bbf6bad3e15d76d71d6"
+    },
+    "adrij": {
+      "kind": "public",
+      "uuid": "eca24ece-e112-4b6e-8066-e125ed34e15a",
+      "skinUrl": "https://raw.githubusercontent.com/yorii-accounts/yorii-skins/bac930a109b778453d4c251f7e9f7f1000d8d07a/skins/adrij.png",
+      "version": "bac930a109b778453d4c251f7e9f7f1000d8d07a",
+      "lastSeenAt": 1788464286630,
+      "claimTokenHash": "67f83f65bf95026b702364b007482493f6a1623288e8704152fb0397518d6024"
     }
   }
 }
