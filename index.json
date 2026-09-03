@@ -5,7 +5,9 @@
       "uuid": "2516a859-5d9e-42a8-bc17-ee55b175f13b",
       "skinUrl": "https://raw.githubusercontent.com/yoriichi111012/yorii-profiles/7ca77535c6cc2049d18833da4f7da8a1979d2212/skins/thesunbreather.png",
       "version": "7ca77535c6cc2049d18833da4f7da8a1979d2212",
-      "kind": "private"
+      "kind": "private",
+      "capeUrl": "https://raw.githubusercontent.com/yoriichi111012/yorii-profiles/e9e360f474d425a17e8da4877d5888a2973dabf5/capes/thesunbreather.png",
+      "capeVersion": "e9e360f474d425a17e8da4877d5888a2973dabf5"
     },
     "Combactal": {
       "kind": "public",
