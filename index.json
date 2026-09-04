@@ -14,14 +14,16 @@
       "uuid": "7e4567fb-f7b0-4059-936f-a3ed36244e31",
       "skinUrl": "https://raw.githubusercontent.com/yorii-accounts/yorii-skins/8940ec6e703eb4a64b5f2f999fdafe0947e48fac/skins/Combactal.png",
       "version": "8940ec6e703eb4a64b5f2f999fdafe0947e48fac",
-      "claimTokenHash": "62a30336b386f9bd9b2b665efac99b1143a1bc8976d47d60e3cd8ffe030fed89"
+      "claimTokenHash": "62a30336b386f9bd9b2b665efac99b1143a1bc8976d47d60e3cd8ffe030fed89",
+      "lastSeenAt": 1788490825988
     },
     "Bobby_bhaiya13": {
       "kind": "public",
       "uuid": "1bd29ec5-4124-45b4-8549-072ad462de07",
       "skinUrl": "https://raw.githubusercontent.com/yorii-accounts/yorii-skins/47e6fb6703a883dbb76ef220530d80db4db2eac9/skins/Bobby_bhaiya13.png",
       "version": "47e6fb6703a883dbb76ef220530d80db4db2eac9",
-      "claimTokenHash": "031ff2dd61d1c96007b060ccda87734c8ef2afbd361a3126b7e974db43b66e5c"
+      "claimTokenHash": "031ff2dd61d1c96007b060ccda87734c8ef2afbd361a3126b7e974db43b66e5c",
+      "lastSeenAt": 1788490825988
     },
     "yoriichi11": {
       "kind": "private",
