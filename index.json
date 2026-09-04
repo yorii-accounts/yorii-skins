@@ -54,6 +54,13 @@
       "version": "deac41cd8b590f5efb85a3c625575f2e5f49d3de",
       "lastSeenAt": 1788537220903,
       "claimTokenHash": "15e4d1d01faabb1348f361ac3b7b597c7918b402b75b98461c709ece7cdf8dde"
+    },
+    "testacc": {
+      "kind": "private",
+      "owner": "yoriichi111012",
+      "uuid": "36f57d11-3991-49d7-9740-49132bf26295",
+      "skinUrl": "https://raw.githubusercontent.com/yoriichi111012/yorii-profiles/d014ea6659d5f8e4be606d353951f61692c11e63/skins/testacc.png",
+      "version": "d014ea6659d5f8e4be606d353951f61692c11e63"
     }
   }
 }
