@@ -60,7 +60,9 @@
       "owner": "yoriichi111012",
       "uuid": "36f57d11-3991-49d7-9740-49132bf26295",
       "skinUrl": "https://raw.githubusercontent.com/yoriichi111012/yorii-profiles/d014ea6659d5f8e4be606d353951f61692c11e63/skins/testacc.png",
-      "version": "d014ea6659d5f8e4be606d353951f61692c11e63"
+      "version": "d014ea6659d5f8e4be606d353951f61692c11e63",
+      "capeUrl": "https://raw.githubusercontent.com/yoriichi111012/yorii-profiles/e875cc1e2d5b9255c0d4bdf8e389c93a082b3550/capes/testacc.png",
+      "capeVersion": "e875cc1e2d5b9255c0d4bdf8e389c93a082b3550"
     }
   }
 }
