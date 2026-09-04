@@ -52,8 +52,10 @@
       "uuid": "9fab43ab-597b-4dec-a3b6-36792a400b69",
       "skinUrl": "https://raw.githubusercontent.com/yorii-accounts/yorii-skins/227cb8944983c64b4d4c1891d8256fb2d73f97c5/skins/bobby.png",
       "version": "227cb8944983c64b4d4c1891d8256fb2d73f97c5",
-      "lastSeenAt": 1788536164610,
-      "claimTokenHash": "1aca97e995248bc631d6d7d61a22ff61e4a89dcdbcda0863f4adef079def4fed"
+      "lastSeenAt": 1788536186240,
+      "claimTokenHash": "1aca97e995248bc631d6d7d61a22ff61e4a89dcdbcda0863f4adef079def4fed",
+      "capeUrl": "https://raw.githubusercontent.com/yorii-accounts/yorii-skins/eca431712f05829b18bc47dd815cec98b80f1d6c/capes/bobby.png",
+      "capeVersion": "eca431712f05829b18bc47dd815cec98b80f1d6c"
     }
   }
 }
