@@ -46,16 +46,6 @@
       "version": "a26d399d4c3b59e94e416f9fe2b03f1538cd5de2",
       "lastSeenAt": 1788535796007,
       "claimTokenHash": "ae554d2864ca79ff51f8286b4ae9ffce8fd333bcd0ee78a19ac746443fbd1ddd"
-    },
-    "basv": {
-      "kind": "public",
-      "uuid": "820968ce-a834-436a-b61c-e58e2ef0201f",
-      "skinUrl": "https://raw.githubusercontent.com/yorii-accounts/yorii-skins/7ab98b3f9d524ec6903f1144249204011bcf8928/skins/basv.png",
-      "version": "7ab98b3f9d524ec6903f1144249204011bcf8928",
-      "lastSeenAt": 1788535924610,
-      "claimTokenHash": "3002e232345a881cd18509d5512bd6dc5082984b3e6dcce0cb6b32d2e34cee33",
-      "capeUrl": "https://raw.githubusercontent.com/yorii-accounts/yorii-skins/0cf74786c5120ef588c4e1208965a3a8e6f49214/capes/basv.png",
-      "capeVersion": "0cf74786c5120ef588c4e1208965a3a8e6f49214"
     }
   }
 }
