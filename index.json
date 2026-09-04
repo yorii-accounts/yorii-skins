@@ -38,6 +38,14 @@
       "version": "bac930a109b778453d4c251f7e9f7f1000d8d07a",
       "lastSeenAt": 1788464286630,
       "claimTokenHash": "67f83f65bf95026b702364b007482493f6a1623288e8704152fb0397518d6024"
+    },
+    "asfasbasb": {
+      "kind": "public",
+      "uuid": "11c32fd3-19a0-44b8-a32a-898c1580a7a9",
+      "skinUrl": "https://raw.githubusercontent.com/yorii-accounts/yorii-skins/fca2d5b185f0209676f7c2e0640c60097aeec632/skins/asfasbasb.png",
+      "version": "fca2d5b185f0209676f7c2e0640c60097aeec632",
+      "lastSeenAt": 1788535720945,
+      "claimTokenHash": "a0537a6fd24dc363e819bf58e5d26efa3a7bd3cc5ba677217da2ee4e61ea8bfe"
     }
   }
 }
