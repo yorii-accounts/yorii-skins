@@ -54,6 +54,14 @@
       "version": "deac41cd8b590f5efb85a3c625575f2e5f49d3de",
       "lastSeenAt": 1788537220903,
       "claimTokenHash": "15e4d1d01faabb1348f361ac3b7b597c7918b402b75b98461c709ece7cdf8dde"
+    },
+    "Combacal": {
+      "kind": "public",
+      "uuid": "a169dff1-aa05-4db8-8fc8-956375f83f4c",
+      "skinUrl": "https://raw.githubusercontent.com/yorii-accounts/yorii-skins/52f9d50449f4b199d666b918ac5df592bc40a8eb/skins/Combacal.png",
+      "version": "52f9d50449f4b199d666b918ac5df592bc40a8eb",
+      "lastSeenAt": 1788599854203,
+      "claimTokenHash": "e82464f74cef41ebd539ce66699fb4d81b37c594145f0f75e8e8d05832a5b190"
     }
   }
 }
