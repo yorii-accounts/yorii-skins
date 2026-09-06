@@ -54,6 +54,14 @@
       "version": "deac41cd8b590f5efb85a3c625575f2e5f49d3de",
       "lastSeenAt": 1788537220903,
       "claimTokenHash": "15e4d1d01faabb1348f361ac3b7b597c7918b402b75b98461c709ece7cdf8dde"
+    },
+    "Dharshan67": {
+      "kind": "public",
+      "uuid": "78c246f5-3473-4073-8eb3-ddc9bb67f330",
+      "skinUrl": "https://raw.githubusercontent.com/yorii-accounts/yorii-skins/ab128c40de627ba53231de9a59553e448ab878b6/skins/Dharshan67.png",
+      "version": "ab128c40de627ba53231de9a59553e448ab878b6",
+      "lastSeenAt": 1788695694091,
+      "claimTokenHash": "ff79f7c9422822a5eb0ebe42b1a7e34baeb36eec9012cf7cf39fa0c2fdf4f71c"
     }
   }
 }
