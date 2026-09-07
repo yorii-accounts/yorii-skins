@@ -62,6 +62,13 @@
       "version": "ab128c40de627ba53231de9a59553e448ab878b6",
       "lastSeenAt": 1788695694091,
       "claimTokenHash": "ff79f7c9422822a5eb0ebe42b1a7e34baeb36eec9012cf7cf39fa0c2fdf4f71c"
+    },
+    "testaccount": {
+      "kind": "private",
+      "owner": "WinUIDev",
+      "uuid": "9fb87a11-4e49-41c0-b69d-6fe143ab7f65",
+      "skinUrl": "https://raw.githubusercontent.com/WinUIDev/yorii-profiles/8d1b0f93f02135ba6c3d6ccb11984c03d6f67ce0/skins/testaccount.png",
+      "version": "8d1b0f93f02135ba6c3d6ccb11984c03d6f67ce0"
     }
   }
 }
