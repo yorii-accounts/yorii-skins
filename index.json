@@ -36,6 +36,13 @@
       "version": "fdd3a2d443ea424dbcf6ee075b087d722dbd3673",
       "lastSeenAt": 1789808474088,
       "claimTokenHash": "1de71f7384e2c0f5b726bf9ac58f228dc39499b8ffc79a89c1e4b319754aca15"
+    },
+    "Combactal": {
+      "kind": "private",
+      "owner": "dudeboyozzy-droid",
+      "uuid": "fbae244d-6ae4-4467-9331-c08f9b2a75f2",
+      "skinUrl": "https://raw.githubusercontent.com/dudeboyozzy-droid/yorii-profiles/56d7466b31f7ac9cdc7c926abb330df1b8271fcd/skins/Combactal.png",
+      "version": "56d7466b31f7ac9cdc7c926abb330df1b8271fcd"
     }
   }
 }
