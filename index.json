@@ -43,6 +43,14 @@
       "uuid": "fbae244d-6ae4-4467-9331-c08f9b2a75f2",
       "skinUrl": "https://raw.githubusercontent.com/dudeboyozzy-droid/yorii-profiles/56d7466b31f7ac9cdc7c926abb330df1b8271fcd/skins/Combactal.png",
       "version": "56d7466b31f7ac9cdc7c926abb330df1b8271fcd"
+    },
+    "Kalu_Halwai": {
+      "kind": "public",
+      "uuid": "9efe849f-20ce-42f0-b592-242f5d0af65b",
+      "skinUrl": "https://raw.githubusercontent.com/yorii-accounts/yorii-skins/defb6c5ed4a4d7f524df75180c923e0bda8a246d/skins/Kalu_Halwai.png",
+      "version": "defb6c5ed4a4d7f524df75180c923e0bda8a246d",
+      "lastSeenAt": 1790006474140,
+      "claimTokenHash": "807244f4c8f455405425998c5a0552f85446d3e5a1861c8a3a2a1ab465e0b2e0"
     }
   }
 }
