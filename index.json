@@ -14,14 +14,6 @@
       "skinUrl": "https://raw.githubusercontent.com/WinUIDev/yorii-profiles/fe27a24fcbe20117778b7bbf6bad3e15d76d71d6/skins/winui.png",
       "version": "fe27a24fcbe20117778b7bbf6bad3e15d76d71d6"
     },
-    "Dharshan67": {
-      "kind": "public",
-      "uuid": "78c246f5-3473-4073-8eb3-ddc9bb67f330",
-      "skinUrl": "https://raw.githubusercontent.com/yorii-accounts/yorii-skins/ab128c40de627ba53231de9a59553e448ab878b6/skins/Dharshan67.png",
-      "version": "ab128c40de627ba53231de9a59553e448ab878b6",
-      "lastSeenAt": 1788695694091,
-      "claimTokenHash": "ff79f7c9422822a5eb0ebe42b1a7e34baeb36eec9012cf7cf39fa0c2fdf4f71c"
-    },
     "testaccount": {
       "kind": "private",
       "owner": "WinUIDev",
