@@ -53,6 +53,14 @@
       "claimTokenHash": "e4d225c7357aa510612130bfb54f534d7e3f2d1fc91dbcf52804743934669846",
       "capeUrl": "https://raw.githubusercontent.com/yorii-accounts/yorii-skins/f34afd7d919c4c66f32bdae0f6bf4cf9c5a0e111/capes/KaluHalwai.png",
       "capeVersion": "f34afd7d919c4c66f32bdae0f6bf4cf9c5a0e111"
+    },
+    "PinDome": {
+      "kind": "public",
+      "uuid": "81de7439-c114-4376-ada8-c26ae799cfd4",
+      "skinUrl": "https://raw.githubusercontent.com/yorii-accounts/yorii-skins/d3d13cbca04455440290ad586f5f3d6cff3e0abf/skins/PinDome.png",
+      "version": "d3d13cbca04455440290ad586f5f3d6cff3e0abf",
+      "lastSeenAt": 1790595915105,
+      "claimTokenHash": "f50c024bc5b9734e3bac8626a0650a224714797292dbeb1d7349762e07f41782"
     }
   }
 }
