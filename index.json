@@ -54,6 +54,14 @@
       "version": "a96be2b5097ab8629f8703d87690eccbed627499",
       "capeUrl": "https://raw.githubusercontent.com/vasutherudra-cloud/yorii-profiles/ee70ae0a642b1e66bc38d2c311db0ed289c51cea/capes/Bobby_bhaiya13.png",
       "capeVersion": "ee70ae0a642b1e66bc38d2c311db0ed289c51cea"
+    },
+    "Dhamodar": {
+      "kind": "public",
+      "uuid": "e9d38028-d6c5-46c8-b676-f182b2b53323",
+      "skinUrl": "https://raw.githubusercontent.com/yorii-accounts/yorii-skins/585e3859efc06b941570bdde6a53601bd2337ce7/skins/Dhamodar.png",
+      "version": "585e3859efc06b941570bdde6a53601bd2337ce7",
+      "lastSeenAt": 1794845145736,
+      "claimTokenHash": "93f0787efe1d924132e1f6027183784c750009b91cbea2b88be9f42f18a378fa"
     }
   }
 }
